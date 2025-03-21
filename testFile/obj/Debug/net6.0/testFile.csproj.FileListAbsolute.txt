@@ -1,0 +1,14 @@
+D:\asp\test Porject\testFile\bin\Debug\net6.0\testFile.exe
+D:\asp\test Porject\testFile\bin\Debug\net6.0\testFile.deps.json
+D:\asp\test Porject\testFile\bin\Debug\net6.0\testFile.runtimeconfig.json
+D:\asp\test Porject\testFile\bin\Debug\net6.0\testFile.dll
+D:\asp\test Porject\testFile\bin\Debug\net6.0\testFile.pdb
+D:\asp\test Porject\testFile\obj\Debug\net6.0\testFile.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\test Porject\testFile\obj\Debug\net6.0\testFile.AssemblyInfoInputs.cache
+D:\asp\test Porject\testFile\obj\Debug\net6.0\testFile.AssemblyInfo.cs
+D:\asp\test Porject\testFile\obj\Debug\net6.0\testFile.csproj.CoreCompileInputs.cache
+D:\asp\test Porject\testFile\obj\Debug\net6.0\testFile.dll
+D:\asp\test Porject\testFile\obj\Debug\net6.0\refint\testFile.dll
+D:\asp\test Porject\testFile\obj\Debug\net6.0\testFile.pdb
+D:\asp\test Porject\testFile\obj\Debug\net6.0\testFile.genruntimeconfig.cache
+D:\asp\test Porject\testFile\obj\Debug\net6.0\ref\testFile.dll
