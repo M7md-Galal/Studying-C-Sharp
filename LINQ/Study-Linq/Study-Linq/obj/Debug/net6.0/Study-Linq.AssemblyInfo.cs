@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Study-Linq")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4d5e859cd5b92c3b8780f84ba98ea49b858a7657")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45501807c83dec851f526e2bd96eb2326d50c7f1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Study-Linq")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Study-Linq")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

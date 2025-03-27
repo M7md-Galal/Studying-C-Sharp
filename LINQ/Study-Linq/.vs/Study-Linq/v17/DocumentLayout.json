@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{3C98203C-C87A-4961-A6C8-0A60F06FAF4E}|Study-Linq\\Study-Linq.csproj|solutionrelative:study-linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\LINQ\\New Microsoft Word Document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3C98203C-C87A-4961-A6C8-0A60F06FAF4E}|Study-Linq\\Study-Linq.csproj|d:\\asp\\study-c-sharp\\linq\\study-linq\\study-linq\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C98203C-C87A-4961-A6C8-0A60F06FAF4E}|Study-Linq\\Study-Linq.csproj|solutionrelative:study-linq\\listgenerators.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,7 +21,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -31,12 +34,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "New Microsoft Word Document.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\LINQ\\New Microsoft Word Document.cs",
+              "RelativeDocumentMoniker": "..\\New Microsoft Word Document.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\LINQ\\New Microsoft Word Document.cs",
+              "RelativeToolTip": "..\\New Microsoft Word Document.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T20:47:45.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ListGenerators.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\LINQ\\Study-Linq\\Study-Linq\\ListGenerators.cs",
               "RelativeDocumentMoniker": "Study-Linq\\ListGenerators.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\LINQ\\Study-Linq\\Study-Linq\\ListGenerators.cs",
               "RelativeToolTip": "Study-Linq\\ListGenerators.cs",
-              "ViewState": "AgIAAA0AAAAAa2ZmZmYswLYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T03:04:40.467Z",
               "EditorCaption": ""
@@ -49,7 +65,7 @@
               "RelativeDocumentMoniker": "Study-Linq\\Program.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\LINQ\\Study-Linq\\Study-Linq\\Program.cs",
               "RelativeToolTip": "Study-Linq\\Program.cs",
-              "ViewState": "AgIAAGYAAAAAAAAAAAAAAHoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOYAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-27T02:26:07.752Z",
               "EditorCaption": ""
