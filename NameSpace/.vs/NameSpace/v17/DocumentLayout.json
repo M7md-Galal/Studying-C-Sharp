@@ -1,38 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\asp\\test Porject\\NameSpace\\",
+  "WorkspaceRootPath": "D:\\asp\\Study-C-Sharp\\NameSpace\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\SortingAlgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\SortingAlgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\sortingalgorithms.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\interface\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interface\\ipayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Interface\\CreditCardPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Interface\\CreditCardPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\interface\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\interface\\creditcardpayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Interface\\IPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\Interface\\IPayment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\typeb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\TypeB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\TypeB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|d:\\asp\\test porject\\namespace\\consoleapp1\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C111CC34-1714-48A3-9662-44C7F4CBA86E}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\typea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\TypeA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ConsoleApp1\\TypeA.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,91 +54,86 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "SortingAlgorithms.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\SortingAlgorithms.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\SortingAlgorithms.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\SortingAlgorithms.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\SortingAlgorithms.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\SortingAlgorithms.cs",
               "RelativeToolTip": "ConsoleApp1\\SortingAlgorithms.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T22:42:43.495Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Calculator.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Calculator.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Calculator.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Calculator.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Calculator.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Calculator.cs",
               "RelativeToolTip": "ConsoleApp1\\Calculator.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:39:28.021Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T22:39:28.021Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Employee.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Employee.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Employee.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Employee.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Employee.cs",
               "RelativeToolTip": "ConsoleApp1\\Employee.cs",
               "ViewState": "AgIAAB8AAACAy8zMzMwcwC0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T22:34:56.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreditCardPayment.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Interface\\CreditCardPayment.cs",
-              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\CreditCardPayment.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Interface\\CreditCardPayment.cs",
-              "RelativeToolTip": "ConsoleApp1\\Interface\\CreditCardPayment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:26:51.636Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T22:34:56.542Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "CreditCardPayment.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Interface\\CreditCardPayment.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\CreditCardPayment.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Interface\\CreditCardPayment.cs",
+              "RelativeToolTip": "ConsoleApp1\\Interface\\CreditCardPayment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:26:51.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "IPayment.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Interface\\IPayment.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Interface\\IPayment.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Interface\\IPayment.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Interface\\IPayment.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Interface\\IPayment.cs",
               "RelativeToolTip": "ConsoleApp1\\Interface\\IPayment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T15:26:50.762Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-20T15:26:50.762Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "TypeB.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\TypeB.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\TypeB.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\TypeB.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\TypeB.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\TypeB.cs",
               "RelativeToolTip": "ConsoleApp1\\TypeB.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:14:48.653Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T13:14:48.653Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Program.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\Program.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAM4AAAAANDMzMzMLwPMAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-18T13:13:13.833Z",
               "EditorCaption": ""
@@ -147,14 +142,13 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "TypeA.cs",
-              "DocumentMoniker": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\TypeA.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\TypeA.cs",
               "RelativeDocumentMoniker": "ConsoleApp1\\TypeA.cs",
-              "ToolTip": "D:\\asp\\test Porject\\NameSpace\\ConsoleApp1\\TypeA.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\NameSpace\\ConsoleApp1\\TypeA.cs",
               "RelativeToolTip": "ConsoleApp1\\TypeA.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-18T13:19:19.049Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-18T13:19:19.049Z"
             }
           ]
         }
