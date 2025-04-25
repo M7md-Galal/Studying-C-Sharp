@@ -1,0 +1,29 @@
+D:\asp\test Porject\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\asp\test Porject\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\asp\test Porject\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\asp\test Porject\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\asp\test Porject\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\asp\test Porject\NameSpace\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.sourcelink.json
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\asp\Study-C-Sharp\NameSpace\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
