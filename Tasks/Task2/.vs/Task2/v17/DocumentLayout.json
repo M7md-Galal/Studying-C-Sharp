@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\asp\\Study-C-Sharp\\Tasks\\Task2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC98EFA-5B56-4EE8-9907-9357189BB0AC}|Task2\\Task2.csproj|d:\\asp\\study-c-sharp\\tasks\\task2\\task2\\hiringdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC98EFA-5B56-4EE8-9907-9357189BB0AC}|Task2\\Task2.csproj|solutionrelative:task2\\hiringdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC98EFA-5B56-4EE8-9907-9357189BB0AC}|Task2\\Task2.csproj|d:\\asp\\study-c-sharp\\tasks\\task2\\task2\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC98EFA-5B56-4EE8-9907-9357189BB0AC}|Task2\\Task2.csproj|solutionrelative:task2\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FC98EFA-5B56-4EE8-9907-9357189BB0AC}|Task2\\Task2.csproj|d:\\asp\\study-c-sharp\\tasks\\task2\\task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FC98EFA-5B56-4EE8-9907-9357189BB0AC}|Task2\\Task2.csproj|solutionrelative:task2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HiringData.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\Tasks\\Task2\\Task2\\HiringData.cs",
+              "RelativeDocumentMoniker": "Task2\\HiringData.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\Tasks\\Task2\\Task2\\HiringData.cs",
+              "RelativeToolTip": "Task2\\HiringData.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAABIPQoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:51:24.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\Tasks\\Task2\\Task2\\Employees.cs",
+              "RelativeDocumentMoniker": "Task2\\Employees.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\Tasks\\Task2\\Task2\\Employees.cs",
+              "RelativeToolTip": "Task2\\Employees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T11:48:00.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\Tasks\\Task2\\Task2\\Program.cs",
+              "RelativeDocumentMoniker": "Task2\\Program.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\Tasks\\Task2\\Task2\\Program.cs",
+              "RelativeToolTip": "Task2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAZGZmZmbwvw4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T19:05:24.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

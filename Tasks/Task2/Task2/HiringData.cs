@@ -1,0 +1,26 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Task2
+{
+    internal class HiringData
+    {
+        public int Day { get; set; }
+        public int Month { get; set; }
+        public int Year { get; set; }
+
+        public HiringData(int day, int month, int year)
+        {
+            Day = day;
+            Month = month;
+            Year = year;
+        }
+        public string GetFormateData()
+        {
+            return $"Hiring Date: {Day}/{Month}/{Year}";
+        }
+    }
+}

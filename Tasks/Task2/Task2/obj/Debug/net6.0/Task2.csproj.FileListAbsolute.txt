@@ -1,0 +1,15 @@
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\bin\Debug\net6.0\Task2.exe
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\bin\Debug\net6.0\Task2.deps.json
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\bin\Debug\net6.0\Task2.runtimeconfig.json
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\bin\Debug\net6.0\Task2.dll
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\bin\Debug\net6.0\Task2.pdb
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfoInputs.cache
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.AssemblyInfo.cs
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.csproj.CoreCompileInputs.cache
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.sourcelink.json
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.dll
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\refint\Task2.dll
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.pdb
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\Task2.genruntimeconfig.cache
+D:\asp\Study-C-Sharp\Tasks\Task2\Task2\obj\Debug\net6.0\ref\Task2.dll
