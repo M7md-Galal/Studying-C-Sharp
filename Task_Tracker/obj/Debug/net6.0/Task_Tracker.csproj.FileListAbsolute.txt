@@ -1,0 +1,14 @@
+D:\asp\test Porject\Task_Tracker\bin\Debug\net6.0\Task_Tracker.exe
+D:\asp\test Porject\Task_Tracker\bin\Debug\net6.0\Task_Tracker.deps.json
+D:\asp\test Porject\Task_Tracker\bin\Debug\net6.0\Task_Tracker.runtimeconfig.json
+D:\asp\test Porject\Task_Tracker\bin\Debug\net6.0\Task_Tracker.dll
+D:\asp\test Porject\Task_Tracker\bin\Debug\net6.0\Task_Tracker.pdb
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\Task_Tracker.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\Task_Tracker.AssemblyInfoInputs.cache
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\Task_Tracker.AssemblyInfo.cs
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\Task_Tracker.csproj.CoreCompileInputs.cache
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\Task_Tracker.dll
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\refint\Task_Tracker.dll
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\Task_Tracker.pdb
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\Task_Tracker.genruntimeconfig.cache
+D:\asp\test Porject\Task_Tracker\obj\Debug\net6.0\ref\Task_Tracker.dll
