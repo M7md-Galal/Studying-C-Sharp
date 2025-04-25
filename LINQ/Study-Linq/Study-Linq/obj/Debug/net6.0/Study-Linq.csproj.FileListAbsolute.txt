@@ -1,0 +1,15 @@
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\bin\Debug\net6.0\Study-Linq.exe
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\bin\Debug\net6.0\Study-Linq.deps.json
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\bin\Debug\net6.0\Study-Linq.runtimeconfig.json
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\bin\Debug\net6.0\Study-Linq.dll
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\bin\Debug\net6.0\Study-Linq.pdb
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.AssemblyInfoInputs.cache
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.AssemblyInfo.cs
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.csproj.CoreCompileInputs.cache
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.sourcelink.json
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.dll
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\refint\Study-Linq.dll
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.pdb
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\Study-Linq.genruntimeconfig.cache
+D:\asp\Study-C-Sharp\LINQ\Study-Linq\Study-Linq\obj\Debug\net6.0\ref\Study-Linq.dll
