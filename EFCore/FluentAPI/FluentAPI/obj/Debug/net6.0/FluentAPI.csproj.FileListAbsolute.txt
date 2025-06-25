@@ -1,0 +1,12 @@
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\bin\Debug\net6.0\FluentAPI.deps.json
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\bin\Debug\net6.0\FluentAPI.dll
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\bin\Debug\net6.0\FluentAPI.pdb
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\FluentAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\FluentAPI.AssemblyInfoInputs.cache
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\FluentAPI.AssemblyInfo.cs
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\FluentAPI.csproj.CoreCompileInputs.cache
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\FluentAPI.sourcelink.json
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\FluentAPI.dll
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\refint\FluentAPI.dll
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\FluentAPI.pdb
+D:\asp\Study-C-Sharp\EFCore\FluentAPI\FluentAPI\obj\Debug\net6.0\ref\FluentAPI.dll

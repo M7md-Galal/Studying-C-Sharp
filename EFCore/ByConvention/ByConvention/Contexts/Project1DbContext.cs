@@ -1,5 +1,8 @@
-﻿using ByConvention.Entities;
+﻿using ByConvention.Confiurations;
+using ByConvention.Entities;
+using FluentAPI;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -34,10 +37,77 @@ namespace ByConvention.Contexts
             // In this case, it uses a trusted connection (Windows Authentication).
             optionsBuilder.UseSqlServer("Server = . ; Database = Project1; Trusted_Connection = True;");
 
+
+
+        // Fluent API
+        override protected void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // This method is used to configure the model using Fluent API.
+            // The modelBuilder parameter is used to configure the model.
+            // The ToTable method is called to specify the table name for each entity.
+            // The HasKey method is called to specify the primary key for each entity.
+            // The Property method is called to configure properties of each entity.
+            // The HasColumnName method is called to specify the column name for each property.
+            // The IsRequired method is called to specify that a property is required.
+            // The HasMaxLength method is called to specify the maximum length of a string property.
+            // The HasPrecision method is called to specify the precision and scale of a decimal property.
+
+
+
+            modelBuilder.Entity<Employee>()
+                        .Property(e => e.EmpId)
+                        .HasColumnName("EmpId");
+
+            modelBuilder.Entity<Employee>()
+                        .Property(e => e.Name)
+                        .HasDefaultValue("Test")
+                        .IsRequired(false)
+                        .HasMaxLength(50);
+
+            modelBuilder.Entity<Employee>()
+                        .Property(e => e.Salary)
+                        .HasPrecision(18, 2);
+
+            modelBuilder.Entity<Employee>()
+                        .Property(e => e.Age)
+                        .IsRequired(false);
+
+
+
+            //Department
+            modelBuilder.Entity<Department>()
+                        .HasKey(D => D.Id);
+            modelBuilder.Entity<Department>()
+                        .Property(D => D.Id)
+                        .UseIdentityColumn(10, 10);
+
+            modelBuilder.Entity<Department>()
+                        .Property(D => D.Name)
+                        .HasColumnName("DepartmentName")
+                        .HasColumnType("varchar")
+                        .HasMaxLength(50)
+                        .IsRequired(false)
+                        .HasDefaultValue("Test Department");
+
+            modelBuilder.Entity<Department>()
+                        .Property(D => D.DateOfCreation)
+                        .HasDefaultValueSql("getdate()");
+
+            // EfCore Feuture 3.1
+            
+
+            modelBuilder.ApplyConfiguration<Department>(new DepartmentConfiguration());
+
+            base.OnModelCreating(modelBuilder);
+        }
+
+
+
+
         public DbSet<Employee> Employees { get; set; }
-        public DbSet<Department> Departments { get; set; }
         public DbSet<Project> Projects { get; set; }
         public DbSet<Product> Products { get; set; }
+        public DbSet<Department> Departments { get; set; }
 
     }
 }

@@ -59,3 +59,5 @@ D:\asp\Study-C-Sharp\EFCore\ByConvention\ByConvention\obj\Debug\net6.0\refint\By
 D:\asp\Study-C-Sharp\EFCore\ByConvention\ByConvention\obj\Debug\net6.0\ByConvention.pdb
 D:\asp\Study-C-Sharp\EFCore\ByConvention\ByConvention\obj\Debug\net6.0\ByConvention.genruntimeconfig.cache
 D:\asp\Study-C-Sharp\EFCore\ByConvention\ByConvention\obj\Debug\net6.0\ref\ByConvention.dll
+D:\asp\Study-C-Sharp\EFCore\ByConvention\ByConvention\bin\Debug\net6.0\FluentAPI.dll
+D:\asp\Study-C-Sharp\EFCore\ByConvention\ByConvention\bin\Debug\net6.0\FluentAPI.pdb
