@@ -10,13 +10,13 @@ namespace ByConvention
 
             // This line is used to create the database if it does not exist.
             Project1DbContext dbContext = new Project1DbContext();
-            dbContext.Employees.Add(new Entities.Employee
-            {
-                Id = 1,
-                Name = "Mohamed Galal",
-                Salary = 50000,
-                Age = 21
-            });
+            //dbContext.Employees.Add(new Entities.Employee
+            //{
+            //    Id = 1,
+            //    Name = "Mohamed Galal",
+            //    Salary = 50000,
+            //    Age = 21
+            //});
 
 
             // Apply Migrations To Database

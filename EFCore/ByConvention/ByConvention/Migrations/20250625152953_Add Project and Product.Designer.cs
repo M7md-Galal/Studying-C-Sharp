@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ByConvention.Migrations
 {
     [DbContext(typeof(Project1DbContext))]
-    [Migration("20250506091607_Initial Create")]
-    partial class InitialCreate
+    [Migration("20250625152953_Add Project and Product")]
+    partial class AddProjectandProduct
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
@@ -23,6 +23,19 @@ namespace ByConvention.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128);
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder, 1L, 1);
+
+            modelBuilder.Entity("ByConvention.Entities.Department", b =>
+                {
+                    b.Property<int>("DepartmentID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("DepartmentID"), 1L, 1);
+
+                    b.HasKey("DepartmentID");
+
+                    b.ToTable("Departments");
+                });
 
             modelBuilder.Entity("ByConvention.Entities.Employee", b =>
                 {
@@ -36,6 +49,7 @@ namespace ByConvention.Migrations
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
+                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Salary")
@@ -44,6 +58,32 @@ namespace ByConvention.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Employees");
+                });
+
+            modelBuilder.Entity("ByConvention.Entities.Product", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"), 1L, 1);
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Products");
+                });
+
+            modelBuilder.Entity("ByConvention.Entities.Project", b =>
+                {
+                    b.Property<int>("ID")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ID"), 1L, 1);
+
+                    b.HasKey("ID");
+
+                    b.ToTable("Projects");
                 });
 #pragma warning restore 612, 618
         }

@@ -4,7 +4,7 @@
 
 namespace ByConvention.Migrations
 {
-    public partial class InitialCreate : Migration
+    public partial class AddEmployee : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
@@ -14,7 +14,7 @@ namespace ByConvention.Migrations
                 {
                     Id = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
-                    Name = table.Column<string>(type: "nvarchar(max)", nullable: true),
+                    Name = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Salary = table.Column<decimal>(type: "decimal(18,2)", nullable: false),
                     Age = table.Column<int>(type: "int", nullable: true)
                 },

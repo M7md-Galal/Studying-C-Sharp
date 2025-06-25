@@ -35,6 +35,9 @@ namespace ByConvention.Contexts
             optionsBuilder.UseSqlServer("Server = . ; Database = Project1; Trusted_Connection = True;");
 
         public DbSet<Employee> Employees { get; set; }
+        public DbSet<Department> Departments { get; set; }
+        public DbSet<Project> Projects { get; set; }
+        public DbSet<Product> Products { get; set; }
 
     }
 }

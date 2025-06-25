@@ -3,12 +3,28 @@
   "WorkspaceRootPath": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\migrations\\20250506091607_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\migrations\\20250506091607_initial create.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250625152434_Add Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ByConvention\\Migrations\\20250625152434_Add Department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250625152137_Add Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ByConvention\\Migrations\\20250625152137_Add Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,52 +54,104 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250506091607_Initial Create.cs",
-              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250506091607_Initial Create.cs",
-              "RelativeDocumentMoniker": "ByConvention\\Migrations\\20250506091607_Initial Create.cs",
-              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250506091607_Initial Create.cs",
-              "RelativeToolTip": "ByConvention\\Migrations\\20250506091607_Initial Create.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\Product.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Product.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T09:16:07.303Z",
+              "WhenOpened": "2025-06-25T15:27:31.648Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\Project.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Project.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\Project.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:26:40.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250625152434_Add Department.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250625152434_Add Department.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Migrations\\20250625152434_Add Department.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250625152434_Add Department.cs",
+              "RelativeToolTip": "ByConvention\\Migrations\\20250625152434_Add Department.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:24:34.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\Department.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Department.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:22:06.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Project1DbContext.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Contexts\\Project1DbContext.cs",
               "RelativeDocumentMoniker": "ByConvention\\Contexts\\Project1DbContext.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Contexts\\Project1DbContext.cs",
               "RelativeToolTip": "ByConvention\\Contexts\\Project1DbContext.cs",
-              "ViewState": "AgIAAAYAAADgYmZmZmYkwBIAAABcAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAATGZmZmbwvyQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:24:41.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "20250625152137_Add Employee.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250625152137_Add Employee.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Migrations\\20250625152137_Add Employee.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250625152137_Add Employee.cs",
+              "RelativeToolTip": "ByConvention\\Migrations\\20250625152137_Add Employee.cs",
+              "ViewState": "AgIAAAcAAADQMTMzMzMvwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T15:21:37.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "ByConvention\\Entities\\Employee.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Employee.cs",
               "RelativeToolTip": "ByConvention\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAACQZmZmZmYkwA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:18:51.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Program.cs",
               "RelativeDocumentMoniker": "ByConvention\\Program.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Program.cs",
               "RelativeToolTip": "ByConvention\\Program.cs",
-              "ViewState": "AgIAAAcAAADAy8zMzMwUwBwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAABgPQwAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:17:00.144Z",
               "EditorCaption": ""
