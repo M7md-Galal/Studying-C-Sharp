@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250626220559_SetDeleteRuleCascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ByConvention\\Migrations\\20250626220559_SetDeleteRuleCascade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\confiurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\confiurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +42,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DepartmentConfiguration.cs",
-              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Confiurations\\DepartmentConfiguration.cs",
-              "RelativeDocumentMoniker": "ByConvention\\Confiurations\\DepartmentConfiguration.cs",
-              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Confiurations\\DepartmentConfiguration.cs",
-              "RelativeToolTip": "ByConvention\\Confiurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAcAAABAMzMzMzMLwBgAAAAOAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "20250626220559_SetDeleteRuleCascade.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250626220559_SetDeleteRuleCascade.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Migrations\\20250626220559_SetDeleteRuleCascade.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Migrations\\20250626220559_SetDeleteRuleCascade.cs",
+              "RelativeToolTip": "ByConvention\\Migrations\\20250626220559_SetDeleteRuleCascade.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T10:12:20.728Z",
+              "WhenOpened": "2025-06-26T22:05:59.537Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Department.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\Department.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Department.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\Department.cs",
+              "ViewState": "AgIAAAMAAABAMjMzMzMbwA4AAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:01:20.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Project1DbContext.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Contexts\\Project1DbContext.cs",
               "RelativeDocumentMoniker": "ByConvention\\Contexts\\Project1DbContext.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Contexts\\Project1DbContext.cs",
               "RelativeToolTip": "ByConvention\\Contexts\\Project1DbContext.cs",
-              "ViewState": "AgIAAEIAAAAAWDMzMzPzv1IAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEwAAABA9v///38owGwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T10:04:29.875Z",
               "EditorCaption": ""
@@ -70,20 +87,20 @@
               "RelativeDocumentMoniker": "ByConvention\\Entities\\Employee.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Employee.cs",
               "RelativeToolTip": "ByConvention\\Entities\\Employee.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAACAPRkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAACAKDMzMzMLwCAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-26T10:04:00.746Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Program.cs",
               "RelativeDocumentMoniker": "ByConvention\\Program.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Program.cs",
               "RelativeToolTip": "ByConvention\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:17:00.144Z",
               "EditorCaption": ""

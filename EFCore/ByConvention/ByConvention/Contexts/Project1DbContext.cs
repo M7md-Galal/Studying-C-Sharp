@@ -1,6 +1,5 @@
 ﻿using ByConvention.Confiurations;
 using ByConvention.Entities;
-using FluentAPI;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using System;
@@ -74,33 +73,43 @@ namespace ByConvention.Contexts
 
 
 
-            //Department
-            modelBuilder.Entity<Department>()
-                        .HasKey(D => D.Id);
-            modelBuilder.Entity<Department>()
-                        .Property(D => D.Id)
-                        .UseIdentityColumn(10, 10);
+            ////Department
+            //modelBuilder.Entity<Department>()
+            //            .HasKey(D => D.Id);
+            //modelBuilder.Entity<Department>()
+            //            .Property(D => D.Id)
+            //            .UseIdentityColumn(10, 10);
 
-            modelBuilder.Entity<Department>()
-                        .Property(D => D.Name)
-                        .HasColumnName("DepartmentName")
-                        .HasColumnType("varchar")
-                        .HasMaxLength(50)
-                        .IsRequired(false)
-                        .HasDefaultValue("Test Department");
+            //modelBuilder.Entity<Department>()
+            //            .Property(D => D.Name)
+            //            .HasColumnName("DepartmentName")
+            //            .HasColumnType("varchar")
+            //            .HasMaxLength(50)
+            //            .IsRequired(false)
+            //            .HasDefaultValue("Test Department");
 
-            modelBuilder.Entity<Department>()
-                        .Property(D => D.DateOfCreation)
-                        .HasDefaultValueSql("getdate()");
+            //modelBuilder.Entity<Department>()
+            //            .Property(D => D.DateOfCreation)
+            //            .HasDefaultValueSql("getdate()");
 
             // EfCore Feuture 3.1
             
 
             modelBuilder.ApplyConfiguration<Department>(new DepartmentConfiguration());
 
+
+            modelBuilder.Entity<Department>()
+                        .HasMany(D => D.Employees)
+                        .WithOne(E => E.Dept)
+                        .HasForeignKey(E => E.DepartmentDeptId)
+                        .OnDelete(DeleteBehavior.Cascade);
+
+            modelBuilder.Entity<Employee>()
+                        .HasOne(E => E.Dept)
+                        .WithMany(D => D.Employees);
+
             base.OnModelCreating(modelBuilder);
         }
-
 
 
 

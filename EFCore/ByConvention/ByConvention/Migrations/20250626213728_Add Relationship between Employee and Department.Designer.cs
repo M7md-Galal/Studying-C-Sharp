@@ -4,6 +4,7 @@ using ByConvention.Contexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -11,9 +12,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ByConvention.Migrations
 {
     [DbContext(typeof(Project1DbContext))]
-    partial class Project1DbContextModelSnapshot : ModelSnapshot
+    [Migration("20250626213728_Add Relationship between Employee and Department")]
+    partial class AddRelationshipbetweenEmployeeandDepartment
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -60,7 +62,6 @@ namespace ByConvention.Migrations
                         .HasColumnType("int");
 
                     b.Property<int?>("DepartmentDeptId")
-                        .IsRequired()
                         .HasColumnType("int");
 
                     b.Property<string>("Name")
@@ -110,9 +111,7 @@ namespace ByConvention.Migrations
                 {
                     b.HasOne("ByConvention.Entities.Department", "Dept")
                         .WithMany("Employees")
-                        .HasForeignKey("DepartmentDeptId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
+                        .HasForeignKey("DepartmentDeptId");
 
                     b.Navigation("Dept");
                 });

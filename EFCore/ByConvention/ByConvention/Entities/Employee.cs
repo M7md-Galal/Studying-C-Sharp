@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Reflection.PortableExecutable;
 using System.Text;
@@ -29,6 +30,11 @@ namespace ByConvention.Entities
         public decimal Salary { get; set; }
         [Range(22, 50)]
         public int? Age { get; set; }
+
+        [ForeignKey("Dept")]
+        public int? DepartmentDeptId { get; set; }
+
+        public Department Dept { get; set; }
 
     }
 }
