@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\confiurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\confiurations\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|d:\\asp\\study-c-sharp\\efcore\\byconvention\\byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7092F7C1-F3CA-4DBB-8195-92D19834D9BB}|ByConvention\\ByConvention.csproj|solutionrelative:byconvention\\contexts\\project1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,41 +38,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "DepartmentConfiguration.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Confiurations\\DepartmentConfiguration.cs",
               "RelativeDocumentMoniker": "ByConvention\\Confiurations\\DepartmentConfiguration.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Confiurations\\DepartmentConfiguration.cs",
               "RelativeToolTip": "ByConvention\\Confiurations\\DepartmentConfiguration.cs",
-              "ViewState": "AgIAAAsAAAAALTMzMzMLwBsAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAABAMzMzMzMLwBgAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T23:39:19.68Z",
+              "WhenOpened": "2025-06-26T10:12:20.728Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "ByConvention\\Entities\\Employee.cs",
-              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Employee.cs",
-              "RelativeToolTip": "ByConvention\\Entities\\Employee.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAABuPRwAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T22:40:18.282Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Project1DbContext.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Contexts\\Project1DbContext.cs",
               "RelativeDocumentMoniker": "ByConvention\\Contexts\\Project1DbContext.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Contexts\\Project1DbContext.cs",
               "RelativeToolTip": "ByConvention\\Contexts\\Project1DbContext.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEIAAAAAWDMzMzPzv1IAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T08:24:41.021Z",
+              "WhenOpened": "2025-06-26T10:04:29.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "ByConvention\\Entities\\Employee.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Entities\\Employee.cs",
+              "RelativeToolTip": "ByConvention\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAACAPRkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T10:04:00.746Z",
               "EditorCaption": ""
             },
             {
@@ -83,7 +83,7 @@
               "RelativeDocumentMoniker": "ByConvention\\Program.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Program.cs",
               "RelativeToolTip": "ByConvention\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAABgPQwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:17:00.144Z",
               "EditorCaption": ""
