@@ -7,16 +7,20 @@
       "RelativeMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|solutionrelative:tpcc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Migrations\\20250627210329_Rename Table Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TPCC\\Migrations\\20250627210329_Rename Table Employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|d:\\asp\\study-c-sharp\\efcore\\tpcc\\tpcc\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|solutionrelative:tpcc\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|d:\\asp\\study-c-sharp\\efcore\\tpcc\\tpcc\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|solutionrelative:tpcc\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|d:\\asp\\study-c-sharp\\efcore\\tpcc\\tpcc\\entities\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|solutionrelative:tpcc\\entities\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|d:\\asp\\study-c-sharp\\efcore\\tpcc\\tpcc\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|solutionrelative:tpcc\\contexts\\companydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{19B95CE0-3033-4727-8457-312DDDC309BA}|TPCC\\TPCC.csproj|d:\\asp\\study-c-sharp\\efcore\\tpcc\\tpcc\\entities\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,20 +46,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "20250627210329_Rename Table Employee.cs",
+              "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Migrations\\20250627210329_Rename Table Employee.cs",
+              "RelativeDocumentMoniker": "TPCC\\Migrations\\20250627210329_Rename Table Employee.cs",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Migrations\\20250627210329_Rename Table Employee.cs",
+              "RelativeToolTip": "TPCC\\Migrations\\20250627210329_Rename Table Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T21:03:29.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "CompanyDbContext.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Contexts\\CompanyDbContext.cs",
               "RelativeDocumentMoniker": "TPCC\\Contexts\\CompanyDbContext.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Contexts\\CompanyDbContext.cs",
               "RelativeToolTip": "TPCC\\Contexts\\CompanyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAglZmZmZklwCAAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T18:01:15.415Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "PartTimeEmployee.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Entities\\PartTimeEmployee.cs",
               "RelativeDocumentMoniker": "TPCC\\Entities\\PartTimeEmployee.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "TPCC\\Entities\\PartTimeEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T17:56:50.806Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T17:56:50.806Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "FullTimeEmployee.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Entities\\FullTimeEmployee.cs",
               "RelativeDocumentMoniker": "TPCC\\Entities\\FullTimeEmployee.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "TPCC\\Entities\\FullTimeEmployee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T17:56:38.446Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T17:56:38.446Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Entities\\Employee.cs",
               "RelativeDocumentMoniker": "TPCC\\Entities\\Employee.cs",
@@ -98,9 +113,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Program.cs",
               "RelativeDocumentMoniker": "TPCC\\Program.cs",
-              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Program.cs*",
-              "RelativeToolTip": "TPCC\\Program.cs*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAqwC4AAADFAAAAAAAAAA==",
+              "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\TPCC\\TPCC\\Program.cs",
+              "RelativeToolTip": "TPCC\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T17:55:36.174Z",
               "EditorCaption": ""

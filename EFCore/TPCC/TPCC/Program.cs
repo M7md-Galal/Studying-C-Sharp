@@ -34,16 +34,16 @@ namespace TPCC
             //companyDbContexte.SaveChanges();
 
 
-            var ftEmployee = from fte in companyDbContexte.FullTimeEmployees
+            var employees = from fte in companyDbContexte.Employees
                              select fte;
 
-            var ptEmployee = from pte in companyDbContexte.PartTimeEmployees
-                             select pte;
+            //var ptEmployee = from pte in companyDbContexte.PartTimeEmployees
+            //                 select pte;
 
-            foreach(var employee in ftEmployee)
+            foreach(var employee in employees.OfType<FullTimeEmployee>())
                 Console.WriteLine($"Full Time Employee: {employee.Name}, Age: {employee.Age}, Address: {employee.Address}, Start Date: {employee.startDate}, Salary: {employee.Salary}");
 
-            foreach (var employee in ptEmployee)
+            foreach (var employee in employees.OfType<PartTimeEmployee>())
                 Console.WriteLine($"Part Time Employee: {employee.Name}, Age: {employee.Age}, Address: {employee.Address}, Hour Rate: {employee.HourRate}, Count of Hours: {employee.CountOfHours}");
         }
     }

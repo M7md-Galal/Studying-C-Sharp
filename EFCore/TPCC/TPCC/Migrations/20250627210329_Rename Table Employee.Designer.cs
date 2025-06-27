@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using TPCC.Contexts;
 
@@ -10,9 +11,10 @@ using TPCC.Contexts;
 namespace TPCC.Migrations
 {
     [DbContext(typeof(CompanyDbContexte))]
-    partial class CompanyDbContexteModelSnapshot : ModelSnapshot
+    [Migration("20250627210329_Rename Table Employee")]
+    partial class RenameTableEmployee
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder

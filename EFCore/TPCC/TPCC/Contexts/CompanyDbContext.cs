@@ -15,7 +15,21 @@ namespace TPCC.Contexts
             optionsBuilder.UseSqlServer("Server= .; Database = Company ; Trusted_Connection = true");
         }
 
-        public DbSet<FullTimeEmployee> FullTimeEmployees { get; set; }
-        public DbSet<PartTimeEmployee> PartTimeEmployees { get; set; }
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            // Fluent Api
+            // TPC
+            modelBuilder.Entity<FullTimeEmployee>()
+                        .HasBaseType<Employee>();
+
+            modelBuilder.Entity<PartTimeEmployee>()
+                        .HasBaseType<Employee>();
+
+
+            base.OnModelCreating(modelBuilder);
+        }
+        //public DbSet<FullTimeEmployee> FullTimeEmployees { get; set; }
+        //public DbSet<PartTimeEmployee> PartTimeEmployees { get; set; }
+        public DbSet<Employee> Employees { get; set; }
     }
 }
