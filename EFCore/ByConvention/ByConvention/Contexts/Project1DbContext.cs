@@ -108,6 +108,25 @@ namespace ByConvention.Contexts
                         .HasOne(E => E.Dept)
                         .WithMany(D => D.Employees);
 
+
+
+            //modelBuilder.Entity<Student>()
+            //            .HasMany(S => S.Courses)
+            //            .WithMany(C => C.Students);  
+
+            modelBuilder.Entity<StudentCourse>()
+                        .HasKey(SC => new { SC.StudentId, SC.CourseId }); // Composite primary key
+
+            modelBuilder.Entity<Student>()
+                        .HasMany(S => S.StudentCourses)
+                        .WithOne(SC => SC.student)
+                        .HasForeignKey(SC => SC.StudentId);
+
+            modelBuilder.Entity<Course>()
+                        .HasMany(C => C.CourseStudents)
+                        .WithOne(SC => SC.course)
+                        .HasForeignKey(SC => SC.CourseId);
+
             base.OnModelCreating(modelBuilder);
         }
 
@@ -117,6 +136,8 @@ namespace ByConvention.Contexts
         public DbSet<Project> Projects { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Department> Departments { get; set; }
+        public DbSet<Student> Students { get; set; }
+        public DbSet<Course> Courses { get; set; }
 
     }
 }
