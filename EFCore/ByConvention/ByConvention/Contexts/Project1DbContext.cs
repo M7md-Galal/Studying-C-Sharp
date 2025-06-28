@@ -34,7 +34,7 @@ namespace ByConvention.Contexts
             // The connection string is specified in the method.
             // The connection string specifies the server name, database name, and authentication method.
             // In this case, it uses a trusted connection (Windows Authentication).
-            optionsBuilder.UseSqlServer("Server = . ; Database = Project1; Trusted_Connection = True;");
+            optionsBuilder.UseSqlServer("Server = . ; Database = Project1; Trusted_Connection = True; trustServerCertificate = true", X => X.UseDateOnlyTimeOnly());
 
 
 
@@ -101,7 +101,7 @@ namespace ByConvention.Contexts
             modelBuilder.Entity<Department>()
                         .HasMany(D => D.Employees)
                         .WithOne(E => E.Dept)
-                        .HasForeignKey(E => E.DepartmentDeptId)
+                        .HasForeignKey(E => E.DepartmentId)
                         .OnDelete(DeleteBehavior.Cascade);
 
             modelBuilder.Entity<Employee>()
@@ -126,6 +126,10 @@ namespace ByConvention.Contexts
                         .HasMany(C => C.CourseStudents)
                         .WithOne(SC => SC.course)
                         .HasForeignKey(SC => SC.CourseId);
+
+            modelBuilder.Entity<Department>()
+                        .Property(D => D.DateOfCreation)
+                        .HasDefaultValueSql("getdate()");
 
             base.OnModelCreating(modelBuilder);
         }

@@ -10,7 +10,7 @@ namespace ByConvention.Entities
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public DateTime DateOfCreation { get; set; }
+        public DateOnly DateOfCreation { get; set; }
 
         public ICollection<Employee> Employees { get; set; } = new HashSet<Employee>(); //Navigational property 
     }

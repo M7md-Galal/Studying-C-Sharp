@@ -36,7 +36,7 @@ namespace ByConvention.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Courses");
+                    b.ToTable("Courses", (string)null);
                 });
 
             modelBuilder.Entity("ByConvention.Entities.Department", b =>
@@ -47,9 +47,9 @@ namespace ByConvention.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 10L, 10);
 
-                    b.Property<DateTime>("DateOfCreation")
+                    b.Property<DateOnly>("DateOfCreation")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("datetime2")
+                        .HasColumnType("date")
                         .HasDefaultValueSql("getdate()");
 
                     b.Property<string>("Name")
@@ -61,7 +61,7 @@ namespace ByConvention.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Departments");
+                    b.ToTable("Departments", (string)null);
                 });
 
             modelBuilder.Entity("ByConvention.Entities.Employee", b =>
@@ -76,7 +76,7 @@ namespace ByConvention.Migrations
                     b.Property<int?>("Age")
                         .HasColumnType("int");
 
-                    b.Property<int?>("DepartmentDeptId")
+                    b.Property<int?>("DepartmentId")
                         .IsRequired()
                         .HasColumnType("int");
 
@@ -92,9 +92,9 @@ namespace ByConvention.Migrations
 
                     b.HasKey("EmpId");
 
-                    b.HasIndex("DepartmentDeptId");
+                    b.HasIndex("DepartmentId");
 
-                    b.ToTable("Employees");
+                    b.ToTable("Employees", (string)null);
                 });
 
             modelBuilder.Entity("ByConvention.Entities.Product", b =>
@@ -107,7 +107,7 @@ namespace ByConvention.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
                 });
 
             modelBuilder.Entity("ByConvention.Entities.Project", b =>
@@ -120,7 +120,7 @@ namespace ByConvention.Migrations
 
                     b.HasKey("ID");
 
-                    b.ToTable("Projects");
+                    b.ToTable("Projects", (string)null);
                 });
 
             modelBuilder.Entity("ByConvention.Entities.Student", b =>
@@ -140,7 +140,7 @@ namespace ByConvention.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Students");
+                    b.ToTable("Students", (string)null);
                 });
 
             modelBuilder.Entity("ByConvention.Entities.StudentCourse", b =>
@@ -158,14 +158,14 @@ namespace ByConvention.Migrations
 
                     b.HasIndex("CourseId");
 
-                    b.ToTable("StudentCourse");
+                    b.ToTable("StudentCourse", (string)null);
                 });
 
             modelBuilder.Entity("ByConvention.Entities.Employee", b =>
                 {
                     b.HasOne("ByConvention.Entities.Department", "Dept")
                         .WithMany("Employees")
-                        .HasForeignKey("DepartmentDeptId")
+                        .HasForeignKey("DepartmentId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 

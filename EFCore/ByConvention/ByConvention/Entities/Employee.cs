@@ -32,7 +32,8 @@ namespace ByConvention.Entities
         public int? Age { get; set; }
 
         [ForeignKey("Dept")]
-        public int? DepartmentDeptId { get; set; }
+        [InverseProperty("Employees")]
+        public int? DepartmentId { get; set; }
 
         public Department Dept { get; set; }
 
