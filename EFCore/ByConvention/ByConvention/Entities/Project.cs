@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ByConvention.Entities
 {
-    internal class Project
+    public class Project
     {
-        public int ID { get; set; }
+        public virtual int ID { get; set; }
     }
 }

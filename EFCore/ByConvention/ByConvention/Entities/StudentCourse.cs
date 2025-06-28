@@ -7,15 +7,15 @@ using System.Threading.Tasks;
 
 namespace ByConvention.Entities
 {
-    internal class StudentCourse
+    public class StudentCourse
     {
         [ForeignKey("Student")]
-        public int StudentId { get; set; }
+        public virtual int StudentId { get; set; }
         [ForeignKey("Course")]
-        public int CourseId  { get; set; }
-        public int Grade { get; set; }
+        public virtual int CourseId  { get; set; }
+        public virtual int Grade { get; set; }
 
-        public Student student { get; set; }
-        public Course course { get; set; }
+        public virtual Student student { get; set; }
+        public virtual Course course { get; set; }
     }
 }

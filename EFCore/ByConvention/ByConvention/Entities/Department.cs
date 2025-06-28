@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace ByConvention.Entities
 {
-    internal class Department
+    public class Department
     {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public DateOnly DateOfCreation { get; set; }
+        public  virtual int Id { get; set; }
+        public virtual string Name { get; set; }
+        public virtual DateOnly DateOfCreation { get; set; }
 
-        public ICollection<Employee> Employees { get; set; } = new HashSet<Employee>(); //Navigational property 
+        public virtual ICollection<Employee> Employees { get; set; } = new HashSet<Employee>(); //Navigational property 
     }
 }

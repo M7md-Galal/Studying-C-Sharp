@@ -34,7 +34,7 @@ namespace ByConvention.Contexts
             // The connection string is specified in the method.
             // The connection string specifies the server name, database name, and authentication method.
             // In this case, it uses a trusted connection (Windows Authentication).
-            optionsBuilder.UseSqlServer("Server = . ; Database = Project1; Trusted_Connection = True; trustServerCertificate = true", X => X.UseDateOnlyTimeOnly());
+            optionsBuilder.UseLazyLoadingProxies().UseSqlServer("Server = . ; Database = Project1; Trusted_Connection = True; trustServerCertificate = true", X => X.UseDateOnlyTimeOnly());
 
 
 

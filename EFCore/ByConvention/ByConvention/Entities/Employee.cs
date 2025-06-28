@@ -20,22 +20,22 @@ namespace ByConvention.Entities
     //}
 
     ////data annotations
-    internal class Employee
+    public class Employee
     {
         [Key]
-        public int EmpId { get; set; }
+        public virtual int EmpId { get; set; }
         [Required]
-        public string Name { get; set; }
+        public virtual string Name { get; set; }
         [Range(1000, 100000)]
-        public decimal Salary { get; set; }
+        public virtual decimal Salary { get; set; }
         [Range(22, 50)]
-        public int? Age { get; set; }
+        public virtual int? Age { get; set; }
 
         [ForeignKey("Dept")]
         [InverseProperty("Employees")]
-        public int? DepartmentId { get; set; }
+        public virtual int? DepartmentId { get; set; }
 
-        public Department Dept { get; set; }
+        public virtual Department Dept { get; set; }
 
     }
 }

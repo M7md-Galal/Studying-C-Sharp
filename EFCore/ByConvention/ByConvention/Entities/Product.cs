@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace ByConvention.Entities
 {
-    internal class Product
+    public class Product
     {
-        public int ID { get; set; }
+        public virtual int ID { get; set; }
     }
 }

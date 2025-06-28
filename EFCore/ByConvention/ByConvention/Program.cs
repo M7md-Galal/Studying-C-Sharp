@@ -80,24 +80,46 @@ namespace ByConvention
 
             // Eager Loading Example
 
-            var Employee = (from E in dbContext.Employees.Include(E => E.Dept) // Eager Loading
-                            where E.EmpId == 1
-                            select E).FirstOrDefault();
+            //var Employee = (from E in dbContext.Employees.Include(E => E.Dept) // Eager Loading
+            //                where E.EmpId == 1
+            //                select E).FirstOrDefault();
 
-            dbContext.Entry(Employee).Reference(E => E.Dept).Load();
+            //dbContext.Entry(Employee).Reference(E => E.Dept).Load();
+
+            ////Console.WriteLine($"{Employee?.Name ?? "No employee found with EmpId 1"} :: {Employee?.Dept?.Name ?? "No Department found"}");
+
+            //var Department = (from D in dbContext.Departments.Include(D => D.Employees) // Eager Loading
+            //                  where D.Id == 1
+            //                  select D).FirstOrDefault();
+
+            //dbContext.Entry(Department).Collection(D => D.Employees).Load(); //Explicit Loading
+            ////Console.WriteLine($"{Department?.Name ?? "No Department found"} :: {Department?.DateOfCreation.ToString("yyyy-MM-dd") ?? "No Date of Creation"}");
+            //foreach (var emp in Department?.Employees ?? Enumerable.Empty<Employee>())
+            //{
+            //    Console.WriteLine($"{emp.Name} :: {emp.Salary} :: {emp.Age}");
+            //}
+
+            // Lazy Loading Example
+
+            //var Employee = (from E in dbContext.Employees
+            //                where E.EmpId == 1
+            //                select E).FirstOrDefault();
+
+            //dbContext.Entry(Employee).Reference(E => E.Dept).Load(); 
 
             //Console.WriteLine($"{Employee?.Name ?? "No employee found with EmpId 1"} :: {Employee?.Dept?.Name ?? "No Department found"}");
 
-            var Department = (from D in dbContext.Departments.Include(D => D.Employees) // Eager Loading
+            var Department = (from D in dbContext.Departments
                               where D.Id == 1
                               select D).FirstOrDefault();
 
             dbContext.Entry(Department).Collection(D => D.Employees).Load(); //Explicit Loading
-            //Console.WriteLine($"{Department?.Name ?? "No Department found"} :: {Department?.DateOfCreation.ToString("yyyy-MM-dd") ?? "No Date of Creation"}");
-            foreach (var emp in Department?.Employees ?? Enumerable.Empty<Employee>())
-            {
-                Console.WriteLine($"{emp.Name} :: {emp.Salary} :: {emp.Age}");
-            }
+            Console.WriteLine($"{Department?.Name ?? "No Department found"}");
+            //foreach (var emp in Department?.Employees ?? Enumerable.Empty<Employee>())
+            //{
+            //    Console.WriteLine($"{emp.Name} :: {emp.Salary} :: {emp.Age}");
+            //}
+
 
         }
     }

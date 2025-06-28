@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace ByConvention.Entities
 {
-    internal class Course
+    public class Course
     {
-        public int Id { get; set; }
-        public string Tittle { get; set; }
+        public virtual int Id { get; set; }
+        public virtual string Tittle { get; set; }
 
         //public ICollection<Student> Students { get; set; } = new HashSet<Student>();
-        public ICollection<StudentCourse> CourseStudents { get; set; } = new HashSet<StudentCourse>();
+        public virtual ICollection<StudentCourse> CourseStudents { get; set; } = new HashSet<StudentCourse>();
     }
 }
