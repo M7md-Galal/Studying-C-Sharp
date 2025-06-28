@@ -131,6 +131,9 @@ namespace ByConvention.Contexts
                         .Property(D => D.DateOfCreation)
                         .HasDefaultValueSql("getdate()");
 
+
+            modelBuilder.Entity<EmployeeDepartmentView>()
+                        .ToView("EmployeeDepartmentView");
             base.OnModelCreating(modelBuilder);
         }
 
@@ -142,6 +145,7 @@ namespace ByConvention.Contexts
         public DbSet<Department> Departments { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
+        public DbSet<EmployeeDepartmentView> employeeDepartmentViews { get; set; }
 
     }
 }

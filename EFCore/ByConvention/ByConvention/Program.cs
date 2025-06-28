@@ -109,16 +109,27 @@ namespace ByConvention
 
             //Console.WriteLine($"{Employee?.Name ?? "No employee found with EmpId 1"} :: {Employee?.Dept?.Name ?? "No Department found"}");
 
-            var Department = (from D in dbContext.Departments
-                              where D.Id == 1
-                              select D).FirstOrDefault();
+            //var Department = (from D in dbContext.Departments
+            //                  where D.Id == 1
+            //                  select D).FirstOrDefault();
 
-            dbContext.Entry(Department).Collection(D => D.Employees).Load(); //Explicit Loading
-            Console.WriteLine($"{Department?.Name ?? "No Department found"}");
-            //foreach (var emp in Department?.Employees ?? Enumerable.Empty<Employee>())
-            //{
-            //    Console.WriteLine($"{emp.Name} :: {emp.Salary} :: {emp.Age}");
-            //}
+            //dbContext.Entry(Department).Collection(D => D.Employees).Load(); //Explicit Loading
+            //Console.WriteLine($"{Department?.Name ?? "No Department found"}");
+            ////foreach (var emp in Department?.Employees ?? Enumerable.Empty<Employee>())
+            ////{
+            ////    Console.WriteLine($"{emp.Name} :: {emp.Salary} :: {emp.Age}");
+            ////}
+
+
+            // Implment View
+
+            //var Result = from item in dbContext.employeeDepartmentViews
+            //             select item;
+
+            foreach (var item in dbContext.employeeDepartmentViews)
+            {
+                Console.WriteLine($"{item.EmpId} :: {item.Name} :: {item.Id} :: {item.DepartmentName}");
+            }
 
 
         }
