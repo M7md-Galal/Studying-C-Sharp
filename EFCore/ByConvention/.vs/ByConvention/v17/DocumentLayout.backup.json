@@ -74,8 +74,7 @@
               "RelativeToolTip": "ByConvention\\Entities\\Employee.cs",
               "ViewState": "AgIAABQAAAAALDMzMzMLwCEAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T06:26:29.252Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-28T06:26:29.252Z"
             },
             {
               "$type": "Document",
@@ -87,8 +86,7 @@
               "RelativeToolTip": "ByConvention\\Contexts\\Project1DbContext.cs",
               "ViewState": "AgIAAEsAAAAAzMzMzMwuwE4AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T10:04:29.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-26T10:04:29.875Z"
             },
             {
               "$type": "Document",
@@ -98,7 +96,7 @@
               "RelativeDocumentMoniker": "ByConvention\\Program.cs",
               "ToolTip": "D:\\asp\\Study-C-Sharp\\EFCore\\ByConvention\\ByConvention\\Program.cs*",
               "RelativeToolTip": "ByConvention\\Program.cs*",
-              "ViewState": "AgIAAEEAAAAAAAAAAACWvU8AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAEkAAAAAAAAAAABqPVoAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-06T08:17:00.144Z",
               "EditorCaption": ""
